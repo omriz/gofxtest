@@ -1,0 +1,2 @@
+# gofxtest
+learning go fx
